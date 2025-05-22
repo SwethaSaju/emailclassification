@@ -26,7 +26,7 @@ nltk.download('stopwords')
 
 # Connect to Gmail via IMAP
 IMAP_SERVER = 'imap.gmail.com'
-EMAIL = 'swethasajunovember@gmail.com'
+EMAIL = '*****@gmail.com'
 PASSWORD = 'nkdh fkzh wgsj tbni'
 
 def fetch_emails():
